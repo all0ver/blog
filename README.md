@@ -1,0 +1,2 @@
+# blog
+blog about frontend
